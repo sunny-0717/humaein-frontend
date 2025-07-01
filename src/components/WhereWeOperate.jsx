@@ -20,7 +20,7 @@ export default function WhereWeOperate() {
     { name: "Speciality clinics", icon: "🩺" },
     { name: "Diagnostic / radiology labs", icon: "🔬" },
     { name: "Pharmacies", icon: "💊" },
-    { name: "Payors", icon: "💳" }
+    { name: "Payors", icon: "🛡️" }
   ];
 
   const specialties = [
